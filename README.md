@@ -2,7 +2,7 @@
 The knowledge base contanis a specialization overview from the course [Project Planning: Putting It All Together](https://www.coursera.org/learn/project-planning-google?specialization=google-project-management) by Google on [Coursera](https://www.coursera.org/). It is divided into following modules:
 - [Beginning the planning phase](./Beginning%20the%20planning%20phase.md)
 - [Building a project plan](./Building%20a%20project%20plan.md)
-- [Managing budgeting and procurement]()
+- [Managing budgeting and procurement](./Managing%20budgeting%20and%20procurement.md)
 - [Managing risks effectively]()
 - [Organizing communication and documentation]()
 
