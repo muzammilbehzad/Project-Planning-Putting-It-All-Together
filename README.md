@@ -4,7 +4,7 @@ The knowledge base contanis a specialization overview from the course [Project P
 - [Building a project plan](./Building%20a%20project%20plan.md)
 - [Managing budgeting and procurement](./Managing%20budgeting%20and%20procurement.md)
 - [Managing risks effectively](./Managing%20risks%20effectively.md)
-- [Organizing communication and documentation]()
+- [Organizing communication and documentation](./Organizing%20communication%20and%20documentation.md)
 
 This is the third course in the Google Project Management Certificate program. This course will explore how to map out a project in the second phase of the project life cycle: the project planning phase. You will examine the key components of a project plan, how to make accurate time estimates, and how to set milestones. Next, you will learn how to build and manage a budget and how the procurement processes work. Then, you will discover tools that can help you identify and manage different types of risk and how to use a risk management plan to communicate and resolve risks. Finally, you will explore how to draft and manage a communication plan and how to organize project documentation.
 ![](imgs/info1.png)
